@@ -6,5 +6,5 @@ Description of the content:
 
 List of Authors:
 
-Sameera K M, Arnaldo Sgueglia, Vinod P, Rafidha Rehiman K A, Corrado Aaron Visaggio, Andrea Di Sorbo, Mauro Conti
+Sameera K M, Arnaldo Sgueglia, Vinod P, Rafidha Rehiman K A, Corrado Aaron Visaggio, Andrea Di Sorbo, Mauro Conti.
 
