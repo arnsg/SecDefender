@@ -2,7 +2,7 @@ Replication Package for the paper entitled "SecDefender: Detecting Low-Quality M
 
 Description of the content:
 
-"FL_Appendix.pdf": contains the DNN model architectures used for the different datasets and provides a comprehensive exploration of the effectiveness and positive results of the proposed methid utilizing ASR (Attack Success Rate) and TMR (Traget Misclassification Rate) metrics.
+"SecDefender_Appendix.pdf": contains the DNN model architectures used for the different datasets and provides a comprehensive exploration of the effectiveness and positive results of the proposed methid utilizing ASR (Attack Success Rate) and TMR (Traget Misclassification Rate) metrics.
 
 List of Authors:
 
